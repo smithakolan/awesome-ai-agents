@@ -1,0 +1,4 @@
+google-adk
+python-dotenv
+mcp
+pytrends
